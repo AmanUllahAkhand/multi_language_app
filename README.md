@@ -1,17 +1,21 @@
-# multi_language_app
+# 🌍 MultiLanguageApp
 
-A new Flutter project.
+A Flutter application that supports **multiple languages** and **light/dark theme switching**, built using **GetX** for state management and localization. This app showcases a clean architecture with modular UI and controller components.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌐 Multi-language support (English, Urdu, Spanish, French, German, etc.)
+- 🌗 Light and Dark theme support
+- 🧩 Modular folder structure with Clean Architecture principles
+- ⚡ State management with GetX
+- 🎨 Google Fonts integration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# multi_language_app
+- **Flutter**
+- **GetX** – state management, routing, and localization
+- **Google Fonts** – custom font styling
+- **Dart** – core language
+
+
