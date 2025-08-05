@@ -5,7 +5,7 @@ A Flutter application that supports **multiple languages** and **light/dark them
 
 ## ✨ Features
 
-- 🌐 Multi-language support (English, Urdu, Spanish, French, German, etc.)
+- 🌐 Multi-language support (English, Bangla, Hindi, Urdu, Spanish, French, German, etc.)
 - 🌗 Light and Dark theme support
 - 🧩 Modular folder structure with Clean Architecture principles
 - ⚡ State management with GetX
